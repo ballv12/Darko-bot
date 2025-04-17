@@ -1,0 +1,24 @@
+{
+    "token": "",
+    "language": "en",
+    "prefix": "!",
+    "mongodbUri": "mongodb+srv://ball:Ballv12@backflip.cw6sg0o.mongodb.net/?retryWrites=true&w=majority",
+    "excessCommands": {
+        "utility": true,
+        "other": true,
+        "hentai": true,
+        "troll": true,
+        "economy" : true
+    },
+    "categories": {
+        "anime": true,
+        "basic": true,
+        "utility": true,
+        "moderation": true,
+        "core" :true,
+        "lavalink": true,
+        "fun": true,
+        "distube": true,
+        "setups": true
+    }
+}
