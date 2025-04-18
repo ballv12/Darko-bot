@@ -69,9 +69,9 @@ const enLang = {
     supportImageURL: 'https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/6a78348e-2063-47b1-bea3-8bc9ff5b350d/dg1s9k3-89b96b63-b615-4f80-8554-68da086c0593.jpg/v1/fill/w_1192,h_670,q_70,strp/discord_shop_video_banner_profile_picture_by_brendeneastman_dg1s9k3-pre.jpg',
     supportDescriptionTitle: "Bell Website for support",
     followUsOn: "links",
-    discord: "Discord",
+    discord: "Website",
     github: "GitHub",
-    replit: "Replit",
+    replit: "Website",
     youtube: "YouTube",
     // userinfo.js
     userinfoDescription: "Show detailed information about a user",
